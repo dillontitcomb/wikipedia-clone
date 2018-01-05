@@ -8,4 +8,18 @@
 }
 img {
   width: 50%;
+  float:left;
+}
+
+.bluecolumn {
+  background-color: #ccffff;
+}
+.dbluecolumn {
+  background-color: #99ffff;
+}
+.dgreencolumn {
+  background-color: #99ff99;
+}
+.greencolumn {
+  background-color: #ccffcc;
 }
