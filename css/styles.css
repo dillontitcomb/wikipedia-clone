@@ -2,11 +2,17 @@
 .col-md-2 {
   margin-top: 30px;
 }
+.col-sm-1 {
+  background-color: #eeeeee;
+}
 
+.col-md-11 {
+  background-color: #eeeeee;
+}
 .container {
   margin-left: 2px;
 }
-img {
+img.TFP {
   width: 50%;
   float:left;
 }
